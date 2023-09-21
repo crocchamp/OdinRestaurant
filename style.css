@@ -15,6 +15,7 @@
     min-height: 100vh; /* Ensure the body takes up the full viewport height */
     font-family: Arial, sans-serif; /* Choose an appropriate font-family */
     color: #333; /* Default text color */
+    gap: 20px;
   }
   
   /* Header Styles */
@@ -53,7 +54,7 @@
     flex-direction: column;
     align-items: center;
     width: 70%;
-    background-color: rgba(25, 24, 24, 0.4); /* Semi-transparent white background */
+    background-color: rgba(25, 24, 24, 0.6);
     padding: 20px; /* Add some padding */
     border-radius: 10px; /* Add rounded corners */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow */
