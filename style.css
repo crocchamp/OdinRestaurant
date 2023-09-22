@@ -16,6 +16,7 @@
     font-family: Arial, sans-serif; /* Choose an appropriate font-family */
     color: #333; /* Default text color */
     gap: 20px;
+    justify-content: space-between;
   }
   
   /* Header Styles */
@@ -72,6 +73,20 @@
   #homePageBurger {
     width: 50%;
     height: 50%;
+  }
+
+  footer{
+    width: 100vw;
+    height: 8vh;
+    background-color: #333;
+    display: flex;
+    justify-content: left;
+  }
+
+  .footer {
+    color: rgb(147, 145, 145);
+    font-size: 20px;
+    padding: 10px;
   }
   
   /* Responsive Design */
