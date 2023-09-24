@@ -1,7 +1,7 @@
 // main.js
 
-import { homeContent } from "./home";
-import { menuContent } from "./menu";
+import { homeContent } from "./home.js";
+import { menuContent } from "./menu.js";
 
 // Wrap your code in a DOMContentLoaded event handler
 document.addEventListener('DOMContentLoaded', () => {
