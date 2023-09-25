@@ -1,6 +1,6 @@
 // main.js
 
-import { homeContent } from "../home.js";
+import { homeContent } from "../OdinRestaurant/home.js";
 import { menuContent } from "../OdinRestaurant/menu.js";
 
 // Wrap your code in a DOMContentLoaded event handler
